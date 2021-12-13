@@ -3,3 +3,5 @@ Website Aplikasi ini merupakan simulasi untuk mengetahui analisis sentimen denga
 
 Link deploy heroku:
 https://sentimen-analysis-svm-heroku.herokuapp.com/
+
+https://media.giphy.com/media/JiWAzw7tDv3CbVMcr3/giphy.gif
